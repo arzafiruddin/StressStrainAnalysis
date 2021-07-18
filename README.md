@@ -14,18 +14,17 @@ The Proportional Limit occurs at the end of the most linear portion of the stres
 
 The Resilience is calculated as the integral from <img src="https://latex.codecogs.com/svg.image?\epsilon&space;" title="\epsilon " /> = 0 to the yield strain (the region shaded red on *FIGURE 1*). The Toughness is calculated as the integral of the entire stress-strain curve (the regions shaded red and cyan on *FIGURE 1*).
 
-All calculated values are then printed to the MATLAB Command Window (as seen in *FIGURE 2*).
+All calculated values are then printed to the MATLAB Command Window (as seen in *FIGURE 2*). Additionally, the stress-strain plot is interactive and will scale according (as seen in *FIGURE 1*).
 
 > The program also has an integrated custom search function, which will report the <img src="https://latex.codecogs.com/svg.image?\sigma&space;" title="\sigma " /> (MPa) at a user-specified <img src="https://latex.codecogs.com/svg.image?\epsilon&space;" title="\epsilon " /> value (the orange point labelled "CUSTOM" on *FIGURE 1*).
 
 *FIGURE 1*
 
-<img src="https://github.com/arzafiruddin/StressStrainAnalysis/blob/7898f030e5eabce36953d565ac7babe2031e425b/readme_assets/stressstrainplot.jpg" width="559" height="496">
+<img src="https://github.com/arzafiruddin/StressStrainAnalysis/blob/7898f030e5eabce36953d565ac7babe2031e425b/readme_assets/stressstrainplot.jpg" width="559" height="496"> <img src="https://github.com/arzafiruddin/StressStrainAnalysis/blob/2c4ca101e118358eef7e2e8c5f4fb46fd07636f1/readme_assets/stressstrainzoomgif.gif">
 
 *FIGURE 2*
 
-<img src="https://github.com/arzafiruddin/StressStrainAnalysis/blob/7898f030e5eabce36953d565ac7babe2031e425b/readme_assets/stressstrainanalysis.jpg" width="273" height="552"> <img src="https://github.com/arzafiruddin/StressStrainAnalysis/blob/2c4ca101e118358eef7e2e8c5f4fb46fd07636f1/readme_assets/stressstrainzoomgif.gif">
-
+<img src="https://github.com/arzafiruddin/StressStrainAnalysis/blob/7898f030e5eabce36953d565ac7babe2031e425b/readme_assets/stressstrainanalysis.jpg" width="273" height="552"> 
 
 ## Dependencies
 - MATLAB Optimization Toolbox
