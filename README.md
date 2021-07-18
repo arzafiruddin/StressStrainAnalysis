@@ -12,13 +12,13 @@ The .xlsx holds displacement (<img src="https://latex.codecogs.com/svg.image?\De
 
 The Proportional Limit occurs at the end of the most linear portion of the stress-strain curve, which is determined based on the series of data points that have the strongest correlation (the closest <img src="https://latex.codecogs.com/svg.image?r" title="r" /> value to 1). The slope of that line, the elastic modulus (<img src="https://latex.codecogs.com/svg.image?E" title="E" />), and a <img src="https://latex.codecogs.com/svg.image?\epsilon&space;" title="\epsilon " /> = 0.002 offset creates is used to create an intercept with the Yield Limit (the dotted line in *FIGURE 1*). The Ultimate Limit occurs where <img src="https://latex.codecogs.com/svg.image?\sigma&space;" title="\sigma " /> reaches it's maximum and the Fracture Limit occurs where the material fails (the last data point on the curve). All the limits are visually represented on the stress-strain plot (as seen in *FIGURE 1*).
 
-The Resilience is calculated as the integral from <img src="https://latex.codecogs.com/svg.image?\epsilon&space;" title="\epsilon " /> = 0 to the yield strain (the region shaded red on *FIGURE 1*). The Toughness is calculated as the integral of the entire stress-strain curve (the regions shaded red and cyan on *FIGURE 1*).
+The Resilience is calculated as the integral from <img src="https://latex.codecogs.com/svg.image?\epsilon&space;" title="\epsilon " /> = 0 to the yield strain (the region shaded red on *FIGURE 1*). The Toughness is calculated as the integral of the entire stress-strain curve (sum of the regions shaded red and cyan on *FIGURE 1*).
 
 All calculated values are then printed to the MATLAB Command Window (as seen in *FIGURE 2*). Additionally, the stress-strain plot is interactive and will scale according (as seen following *FIGURE 2*).
 
-> The program also has an integrated custom search function, which will report the <img src="https://latex.codecogs.com/svg.image?\sigma&space;" title="\sigma " /> (MPa) at a user-specified <img src="https://latex.codecogs.com/svg.image?\epsilon&space;" title="\epsilon " /> value (the orange point labelled "CUSTOM" on *FIGURE 1*).
+> NOTE: The program also has an integrated custom search function, which will report the <img src="https://latex.codecogs.com/svg.image?\sigma&space;" title="\sigma " /> (MPa) at a user-specified <img src="https://latex.codecogs.com/svg.image?\epsilon&space;" title="\epsilon " /> value (the orange point on *FIGURE 1*).
 
-> All the figures represent data from a tension test of aluminum. The original data is in `aluminum.xlsx` in the repository.
+> NOTE: All the figures represent data from a tension test of aluminum. The original data is in `aluminum.xlsx` in the repository.
 
 *FIGURE 1*
 
