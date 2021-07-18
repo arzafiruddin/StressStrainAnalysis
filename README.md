@@ -17,6 +17,7 @@ The Proportional Limit occurs at the end of the most linear portion of the stres
 ### Resilience and Toughness
 The Resilience (J/m^2) is calculated as the integral from <img src="https://latex.codecogs.com/svg.image?\epsilon&space;" title="\epsilon " /> = 0 to the yield strain (the region shaded red on *FIGURE 1*). The Toughness (J/m^2) is calculated as the integral of the entire stress-strain curve (sum of the regions shaded red and cyan on *FIGURE 1*).
 
+### Footnotes
 All calculated values are then printed to the MATLAB Command Window (as seen in *FIGURE 2*). Additionally, the stress-strain plot is interactive and will scale according (as seen following *FIGURE 2*).
 
 > NOTE: The program also has an integrated custom search function, which will report the <img src="https://latex.codecogs.com/svg.image?\sigma&space;" title="\sigma " /> (MPa) at a user-specified <img src="https://latex.codecogs.com/svg.image?\epsilon&space;" title="\epsilon " /> value (the orange point on *FIGURE 1*).
