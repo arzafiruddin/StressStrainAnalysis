@@ -25,3 +25,9 @@ All calculated values are then printed to the MATLAB Command Window (as seen in 
 *FIGURE 2*
 
 <img src="https://github.com/arzafiruddin/StressStrainAnalysis/blob/7898f030e5eabce36953d565ac7babe2031e425b/readme_assets/stressstrainanalysis.jpg" width="273" height="552">
+
+## Dependencies
+- MATLAB Optimization Toolbox
+
+## Acknowledgments
+- Dr. Naji Husseini, PhD (North Carolina State University - Department of Biomedical Engineering) advised development as part of BMME 201 course
