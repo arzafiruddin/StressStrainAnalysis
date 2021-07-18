@@ -18,7 +18,7 @@ All calculated values are then printed to the MATLAB Command Window (as seen in 
 
 > The program also has an integrated custom search function, which will report the <img src="https://latex.codecogs.com/svg.image?\sigma&space;" title="\sigma " /> (MPa) at a user-specified <img src="https://latex.codecogs.com/svg.image?\epsilon&space;" title="\epsilon " /> value (the orange point labelled "CUSTOM" on *FIGURE 1*).
 
-> All the figures represent data from a tension test of Aluminium. The original data is listed as `aluminium.xlsx` in the repository.
+> All the figures represent data from a tension test of Aluminum. The original data is listed as `aluminum.xlsx` in the repository.
 
 *FIGURE 1*
 
