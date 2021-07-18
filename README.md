@@ -24,7 +24,7 @@ All calculated values are then printed to the MATLAB Command Window (as seen in 
 
 *FIGURE 2*
 
-<img src="https://github.com/arzafiruddin/StressStrainAnalysis/blob/7898f030e5eabce36953d565ac7babe2031e425b/readme_assets/stressstrainanalysis.jpg" width="273" height="552"> <img src="https://github.com/arzafiruddin/StressStrainAnalysis/blob/2c4ca101e118358eef7e2e8c5f4fb46fd07636f1/readme_assets/stressstrainzoomgif.gif" width="504" height="420"> 
+<img src="https://github.com/arzafiruddin/StressStrainAnalysis/blob/7898f030e5eabce36953d565ac7babe2031e425b/readme_assets/stressstrainanalysis.jpg" width="273" height="552"> &nbsp;&nbsp;&nbsp; <img src="https://github.com/arzafiruddin/StressStrainAnalysis/blob/2c4ca101e118358eef7e2e8c5f4fb46fd07636f1/readme_assets/stressstrainzoomgif.gif" width="504" height="420"> 
 
 ## Dependencies
 - MATLAB Optimization Toolbox
