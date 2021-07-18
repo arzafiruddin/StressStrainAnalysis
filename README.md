@@ -14,4 +14,6 @@ The Proportional Limit occurs at the end of the most linear portion of the stres
 
 The Resilience is calculated as the integral from <img src="https://latex.codecogs.com/svg.image?\epsilon&space;" title="\epsilon " /> = 0 to the yield strain (the region shaded red on *FIGURE #*). The Toughness is calculated as the integral of the entire stress-strain curve (the regions shaded red and cyan on *FIGURE #*).
 
-The program also has an integrated custom search function, which will report the (<img src="https://latex.codecogs.com/svg.image?\sigma&space;" title="\sigma " /> (MPa) at a user-specified <img src="https://latex.codecogs.com/svg.image?\epsilon&space;" title="\epsilon " /> value (the orange point labelled "CUSTOM" on *FIGURE #*).
+All calculated values are then printed to the MATLAB Command Window.
+
+> The program also has an integrated custom search function, which will report the (<img src="https://latex.codecogs.com/svg.image?\sigma&space;" title="\sigma " /> (MPa) at a user-specified <img src="https://latex.codecogs.com/svg.image?\epsilon&space;" title="\epsilon " /> value (the orange point labelled "CUSTOM" on *FIGURE #*).
