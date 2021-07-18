@@ -18,6 +18,8 @@ All calculated values are then printed to the MATLAB Command Window (as seen in 
 
 > The program also has an integrated custom search function, which will report the <img src="https://latex.codecogs.com/svg.image?\sigma&space;" title="\sigma " /> (MPa) at a user-specified <img src="https://latex.codecogs.com/svg.image?\epsilon&space;" title="\epsilon " /> value (the orange point labelled "CUSTOM" on *FIGURE 1*).
 
+> All the figures represent data from a tension test of Aluminium. The original data is listed as `aluminium.xlsx` in the repository.
+
 *FIGURE 1*
 
 <img src="https://github.com/arzafiruddin/StressStrainAnalysis/blob/7898f030e5eabce36953d565ac7babe2031e425b/readme_assets/stressstrainplot.jpg" width="559" height="496">
