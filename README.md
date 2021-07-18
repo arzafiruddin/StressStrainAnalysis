@@ -21,11 +21,11 @@ All calculated values are then printed to the MATLAB Command Window (as seen in 
 *FIGURE 1*
 
 <img src="https://github.com/arzafiruddin/StressStrainAnalysis/blob/7898f030e5eabce36953d565ac7babe2031e425b/readme_assets/stressstrainplot.jpg" width="559" height="496">
-<img src="https://github.com/arzafiruddin/StressStrainAnalysis/blob/2c4ca101e118358eef7e2e8c5f4fb46fd07636f1/readme_assets/stressstrainzoomgif.gif">
 
 *FIGURE 2*
 
-<img src="https://github.com/arzafiruddin/StressStrainAnalysis/blob/7898f030e5eabce36953d565ac7babe2031e425b/readme_assets/stressstrainanalysis.jpg" width="273" height="552">
+<img src="https://github.com/arzafiruddin/StressStrainAnalysis/blob/7898f030e5eabce36953d565ac7babe2031e425b/readme_assets/stressstrainanalysis.jpg" width="273" height="552"> <img src="https://github.com/arzafiruddin/StressStrainAnalysis/blob/2c4ca101e118358eef7e2e8c5f4fb46fd07636f1/readme_assets/stressstrainzoomgif.gif">
+
 
 ## Dependencies
 - MATLAB Optimization Toolbox
