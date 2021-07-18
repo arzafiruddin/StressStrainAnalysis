@@ -17,3 +17,11 @@ The Resilience is calculated as the integral from <img src="https://latex.codeco
 All calculated values are then printed to the MATLAB Command Window (as seen in *FIGURE #*).
 
 > The program also has an integrated custom search function, which will report the <img src="https://latex.codecogs.com/svg.image?\sigma&space;" title="\sigma " /> (MPa) at a user-specified <img src="https://latex.codecogs.com/svg.image?\epsilon&space;" title="\epsilon " /> value (the orange point labelled "CUSTOM" on *FIGURE #*).
+
+*FIGURE 1*
+
+<img src="https://github.com/arzafiruddin/StressStrainAnalysis/blob/7898f030e5eabce36953d565ac7babe2031e425b/readme_assets/stressstrainplot.jpg" width="1118" height="992">
+
+*FIGURE 2*
+
+<img src="https://github.com/arzafiruddin/StressStrainAnalysis/blob/7898f030e5eabce36953d565ac7babe2031e425b/readme_assets/stressstrainanalysis.jpg" width="546" height="1103">
